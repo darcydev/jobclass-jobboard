@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '51539d57c79f52a4896e4ebf65cfa402047b71d8',
+    'reference' => '5d77eb11ad982be7615ee865b19513686de777e3',
     'name' => 'bedigit/jobclass',
   ),
   'versions' => 
@@ -36,7 +36,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '51539d57c79f52a4896e4ebf65cfa402047b71d8',
+      'reference' => '5d77eb11ad982be7615ee865b19513686de777e3',
     ),
     'bedigit/lara-recaptcha' => 
     array (
