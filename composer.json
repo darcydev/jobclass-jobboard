@@ -32,6 +32,7 @@
 		"php": "^7.3",
 		"ext-curl": "*",
 		"ext-json": "*",
+		"ext-gd": "*",
 		"aws/aws-sdk-php": "~3.0",
 		"bedigit/lara-recaptcha": "^1.1",
 		"bileto/omnipay-payu": "dev-master",
@@ -110,7 +111,7 @@
 			"LarapenIlluminate\\": "packages/laravel/framework/src/Illuminate/",
 			"Larapen\\TextToImage\\": "packages/larapen/texttoimage/src/",
 			"Larapen\\Admin\\": "packages/larapen/admin/src/",
-		  	"Larapen\\LaravelDistance\\": "packages/larapen/laravel-distance/src/",
+			"Larapen\\LaravelDistance\\": "packages/larapen/laravel-distance/src/",
 			"Larapen\\Feed\\": "packages/spatie/laravel-feed/src/",
 			"Larapen\\Impersonate\\": "packages/lab404/laravel-impersonate/src/"
 		}
