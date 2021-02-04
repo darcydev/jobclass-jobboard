@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '5d77eb11ad982be7615ee865b19513686de777e3',
+    'reference' => 'b51072e9271221e7794cbb3981a339a93aa2348f',
     'name' => 'bedigit/jobclass',
   ),
   'versions' => 
@@ -60,7 +60,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '5d77eb11ad982be7615ee865b19513686de777e3',
+      'reference' => 'b51072e9271221e7794cbb3981a339a93aa2348f',
     ),
     'bedigit/lara-recaptcha' => 
     array (
