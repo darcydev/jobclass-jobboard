@@ -9,6 +9,12 @@
 		"prod": "npm run production",
 		"production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
 	},
+	"dependencies": {
+		"popper.js": "^1.16.0",
+		"vue": "^2.6.11",
+		"ajv": "^6.12.2",
+		"imagemin": "^6.0.0"
+	},
 	"devDependencies": {
 		"axios": "^0.19",
 		"bootstrap": "^4.0.0",
@@ -20,11 +26,5 @@
 		"sass": "^1.15.2",
 		"sass-loader": "^8.0.0",
 		"vue-template-compiler": "^2.6.11"
-	},
-	"dependencies": {
-		"popper.js": "^1.16.0",
-		"vue": "^2.6.11",
-		"ajv": "^6.12.2",
-		"imagemin": "^6.0.0"
 	}
 }
